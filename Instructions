@@ -1,0 +1,5 @@
+1. Write complex.h
+	- struct for complex numbers
+	- add, multiply, norm of complex numbers
+
+2. Implement escape time algorithm in order to complete julia.c
